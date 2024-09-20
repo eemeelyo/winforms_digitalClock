@@ -10,11 +10,26 @@ using System.Windows.Forms;
 
 namespace winforms_digitalClock
 {
-    public partial class Form1 : Form
+    public partial class clock : Form
     {
-        public Form1()
+        Timer t = new Timer();
+        public clock()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            t.Interval = 1000;
+
+            t.Tick += new EventHandler(this.t_Tick);
+
+            t.Start();
+        }
+
+        private void t_Tick(object sender, EventArgs e)
+        {
+
         }
     }
 }
