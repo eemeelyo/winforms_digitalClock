@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tanke\\OneDrive\\OneDrive_C#Projects\\winforms_digitalClock\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30BC78F8-52B5-4C1E-A180-B05A2D2CF040}|winforms_digitalClock.csproj|c:\\users\\tanke\\onedrive\\onedrive_c#projects\\winforms_digitalclock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BC78F8-52B5-4C1E-A180-B05A2D2CF040}|winforms_digitalClock.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30BC78F8-52B5-4C1E-A180-B05A2D2CF040}|winforms_digitalClock.csproj|c:\\users\\tanke\\onedrive\\onedrive_c#projects\\winforms_digitalclock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30BC78F8-52B5-4C1E-A180-B05A2D2CF040}|winforms_digitalClock.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\OneDrive_C#Projects\\winforms_digitalClock\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tanke\\OneDrive\\OneDrive_C#Projects\\winforms_digitalClock\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:38:34.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tanke\\OneDrive\\OneDrive_C#Projects\\winforms_digitalClock\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
